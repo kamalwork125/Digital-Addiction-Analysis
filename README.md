@@ -51,7 +51,9 @@ The dataset is stored in CSV format and used across all analysis stages.
 - Scatter plot for Screen Time vs Sleep Hours  
 - Donut chart for user distribution by age group  
 - Clustered column chart for average sleep by screen time
+  
   ![Uploading Screenshot 2026-03-04 121623.png…]()
+
 
 
 ---
